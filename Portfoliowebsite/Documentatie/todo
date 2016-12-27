@@ -1,0 +1,8 @@
+nu nog inhoud en afbeeldingen voorzien voor de homepagina
+banner maken voor helemaal bovenaan
+
+de bedoeling is om het logo bovenaan en de footer te behouden op alle pagina's
+
+enkel op de homepagina komt een second header.
+op de andere pagina's zal dit vervangen worden door een beperkt navigatiemenu.
+daarvoor staat al een div klaar, je moet deze enkel nog extenden net zoals op home.html
